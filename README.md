@@ -62,4 +62,4 @@ app/
 
 ## License
 
-MIT License — feel free to use and modify!
+This project is open source and available under the MIT License.
